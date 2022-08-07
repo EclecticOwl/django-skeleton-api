@@ -1,0 +1,1 @@
+## A Skeleton Setup for a Django API
